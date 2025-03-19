@@ -2,6 +2,12 @@
   "lastUpdated": "2025-03-19T16:34:03.092472"
   "emotes": [
     {
+      "name": "Cyring",
+      "format": "png",
+      "url": "emotes/Cyring.png",
+      "sha1": "3b6d5f0de60583fe82f0898985eb52d162d5a9d1"
+    },
+    {
       "name": "mhm",
       "format": "gif",
       "url": "emotes/mhm.gif",
