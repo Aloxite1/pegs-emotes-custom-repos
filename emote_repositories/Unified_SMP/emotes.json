@@ -8,7 +8,10 @@
       "sha1": "2729299713299772cde2275be135236227adcc0c"
     },
     {
-      
+      "name": "Pleasant",
+      "format": "png",
+      "url": "emotes/Pleasant.png",
+      "sha1": "47924e0b24174bd631abd33181a69d4ca7a3d003"
     }
   ]
 }
