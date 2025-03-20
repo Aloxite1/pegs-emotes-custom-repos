@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-20T13:17:00.000000",
+  "lastUpdated": "2025-03-20T13:57:00.000000",
   "emotes": [
     {
       "name": "CAUGHT",
@@ -42,6 +42,12 @@
       "format": "gif",
       "url": "emotes/peepoCreate.gif",
       "sha1": "d55f6fc7634b230b4d70a872224a2801de90b2b0"
+    },
+    {
+      "name": "peepoYo",
+      "format": "png",
+      "url": "emotes/peepoYo.png",
+      "sha1": "88f1976a9bfa530d461c464218313d1c35636cac"
     },
     {
       "name": "Pleasant",
