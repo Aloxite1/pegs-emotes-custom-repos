@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-20T15:15:00.000000",
+  "lastUpdated": "2025-03-20T15:52:00.000000",
   "emotes": [
     {
       "name": "CAUGHT",
@@ -60,6 +60,12 @@
       "format": "png",
       "url": "emotes/Pleasant.png",
       "sha1": "47924e0b24174bd631abd33181a69d4ca7a3d003"
+    },
+    {
+      "name": "Shrug",
+      "format": "png",
+      "url": "emotes/Shrug.png",
+      "sha1": "6643d94e8ed37019dd513b1cf5b9d9339117bc34"
     },
     {
       "name": "soCute",
