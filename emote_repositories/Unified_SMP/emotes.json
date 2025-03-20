@@ -14,6 +14,12 @@
       "sha1": "3b6d5f0de60583fe82f0898985eb52d162d5a9d1"
     },
     {
+      "name": "glorp",
+      "format": "png",
+      "url": "emotes/glorp.png",
+      "sha1": "47ebc0bfd40e19fe06ced494178b48c18daad223"
+    },
+    {
       "name": "ICANT",
       "format": "png",
       "url": "emotes/ICANT.png",
