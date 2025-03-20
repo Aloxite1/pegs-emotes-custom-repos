@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-20T13:57:00.000000",
+  "lastUpdated": "2025-03-20T15:15:00.000000",
   "emotes": [
     {
       "name": "CAUGHT",
@@ -30,6 +30,12 @@
       "format": "gif",
       "url": "emotes/mhm.gif",
       "sha1": "cb28f054a19de41325e37435480267381eaaaf0f"
+    },
+    {
+      "name": "NoNO",
+      "format": "gif",
+      "url": "emotes/NoNo.gif",
+      "sha1": "e73e39afc8b79b89b7d453d8ba8349a86a27d388"
     },
     {
       "name": ":pensive:",
