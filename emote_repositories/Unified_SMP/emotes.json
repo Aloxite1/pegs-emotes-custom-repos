@@ -1,11 +1,17 @@
 {
-  "lastUpdated": "2025-03-19T17:08:54.083429",
+  "lastUpdated": "2025-03-20T13:17:00.000000",
   "emotes": [
     {
       "name": "Cyring",
       "format": "png",
       "url": "emotes/Cyring.png",
       "sha1": "3b6d5f0de60583fe82f0898985eb52d162d5a9d1"
+    },
+    {
+      "name": "ICANT",
+      "format": "png",
+      "url": "emotes/ICANT.png",
+      "sha1": "5fadac60239cb3b25c37f62c1ad5818b60cbce12"
     },
     {
       "name": "mhm",
