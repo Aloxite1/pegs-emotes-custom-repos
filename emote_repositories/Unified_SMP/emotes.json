@@ -32,7 +32,7 @@
       "sha1": "cb28f054a19de41325e37435480267381eaaaf0f"
     },
     {
-      "name": "NoNO",
+      "name": "NoNo",
       "format": "gif",
       "url": "emotes/NoNo.gif",
       "sha1": "e73e39afc8b79b89b7d453d8ba8349a86a27d388"
@@ -60,6 +60,12 @@
       "format": "png",
       "url": "emotes/Pleasant.png",
       "sha1": "47924e0b24174bd631abd33181a69d4ca7a3d003"
+    },
+    {
+      "name": "soCute",
+      "format": "gif",
+      "url": "emotes/soCute.gif",
+      "sha1": "68a9c76067ece4cd5d5c75a8068224cb4371bd7b"
     },
     {
       "name": "Unpleasant",
