@@ -48,6 +48,12 @@
       "format": "png",
       "url": "emotes/Unpleasant.png",
       "sha1": "4edc622c65e248efbc944b18b2153bfa5224e9d4"
+    },
+    {
+      "name": "YEO",
+      "format": "png",
+      "url": "emotes/YEO.png",
+      "sha1": "ae1d60049df8e11c91c85c8a3757f243f46b3cf1"
     }
   ]
 }
