@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-20T16:02:00.000000",
+  "lastUpdated": "2025-03-20T17:35:00.000000",
   "emotes": [
     {
       "name": "CAUGHT",
@@ -18,6 +18,12 @@
       "format": "png",
       "url": "emotes/glorp.png",
       "sha1": "47ebc0bfd40e19fe06ced494178b48c18daad223"
+    },
+    {
+      "name": "hai",
+      "format": "png",
+      "url": "emotes/hai.png",
+      "sha1": "3195f003b5f93fafbda53aca48b51397e7d47c3c"
     },
     {
       "name": "ICANT",
