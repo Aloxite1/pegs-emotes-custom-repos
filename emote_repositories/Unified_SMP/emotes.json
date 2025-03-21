@@ -50,6 +50,12 @@
       "sha1": "9a45970e333fd4e89a171c9d7d71ed03163e99bf"
     },
     {
+      "name": "otag",
+      "format": "png",
+      "url": "emotes/otag.png",
+      "sha1": "99edd704d3b82b3ddbb36e959fe24c70e8421445"
+    },
+    {
       "name": ":pensive:",
       "format": "png",
       "url": "emotes/pensive.png",
