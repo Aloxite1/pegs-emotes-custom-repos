@@ -68,6 +68,12 @@
       "sha1": "d55f6fc7634b230b4d70a872224a2801de90b2b0"
     },
     {
+      "name":"peepoGiggles",
+      "format":"gif",
+      "url":"https://sbvlvwxtbaqajaiahslb.supabase.co/storage/v1/object/public/emotes/f1ff136a29d8ef1be7051e0b597456816149cbbf.gif",
+      "sha1":"f1ff136a29d8ef1be7051e0b597456816149cbbf"
+    },
+    {
       "name": "peepoYo",
       "format": "png",
       "url": "emotes/peepoYo.png",
