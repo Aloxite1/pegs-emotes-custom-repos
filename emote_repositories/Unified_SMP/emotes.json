@@ -44,6 +44,12 @@
       "sha1": "e73e39afc8b79b89b7d453d8ba8349a86a27d388"
     },
     {
+      "name": "ohno",
+      "format": "gif",
+      "url": "emotes/ohno.gif",
+      "sha1": "08cc97b68e1e54cb130bdccf81836126ee6c4a40"
+    },
+    {
       "name": "om",
       "format": "gif",
       "url": "emotes/om.gif",
