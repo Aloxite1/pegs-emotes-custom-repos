@@ -2,6 +2,12 @@
   "lastUpdated": "2025-03-22T11:00:00.000000",
   "emotes": [
     {
+      "name": ":0",
+      "format": "png",
+      "url": "emotes/:0.png",
+      "sha1": "8e3c5cbe96c33a2bc7424a044ba95cf9a52da2c3"
+    },
+    {
       "name": "CAUGHT",
       "format": "png",
       "url": "emotes/CAUGHT.png",
