@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-20T17:35:00.000000",
+  "lastUpdated": "2025-03-22T11:00:00.000000",
   "emotes": [
     {
       "name": "CAUGHT",
@@ -12,6 +12,12 @@
       "format": "png",
       "url": "emotes/Cyring.png",
       "sha1": "3b6d5f0de60583fe82f0898985eb52d162d5a9d1"
+    },
+    {
+      "name": "gigglePup",
+      "format": "png",
+      "url": "emotes/gigglePup.png",
+      "sha1": "625c4a4b392db6c262351d55e5d303a0568c058e"
     },
     {
       "name": "glorp",
