@@ -150,6 +150,12 @@
       "format": "png",
       "url": "emotes/YEO.png",
       "sha1": "ae1d60049df8e11c91c85c8a3757f243f46b3cf1"
+    },
+    {
+      "name": "YUMP",
+      "format": "gif",
+      "url": "emotes/YUMP.gif",
+      "sha1": "40b76ea1e18042fbca293cf61ca9a241b59ad588"
     }
   ]
 }
