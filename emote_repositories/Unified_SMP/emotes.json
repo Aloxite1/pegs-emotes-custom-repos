@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-22T11:00:00.000000",
+  "lastUpdated": "2025-03-25T17:50:00.000000",
   "emotes": [
     {
       "name": ":0",
@@ -132,6 +132,12 @@
       "format": "png",
       "url": "emotes/Shrug.png",
       "sha1": "6643d94e8ed37019dd513b1cf5b9d9339117bc34"
+    },
+    {
+      "name": "slayyy",
+      "format": "png",
+      "url": "emotes/slayyy.png",
+      "sha1": "b667b8fc09fbdfb0237ac60694459b57e3b65292"
     },
     {
       "name": "soCute",
