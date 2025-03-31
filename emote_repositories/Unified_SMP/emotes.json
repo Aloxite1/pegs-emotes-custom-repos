@@ -158,6 +158,12 @@
       "sha1": "68a9c76067ece4cd5d5c75a8068224cb4371bd7b"
     },
     {
+      "name": "thumbsUp",
+      "format": "png",
+      "url": "emotes/thumbsUp.png",
+      "sha1": "d17b907829d6ef252b4c51c59b86d73866ccb23b"
+    },
+    {
       "name": "Unpleasant",
       "format": "png",
       "url": "emotes/Unpleasant.png",
