@@ -146,6 +146,12 @@
       "sha1": "b667b8fc09fbdfb0237ac60694459b57e3b65292"
     },
     {
+      "name": "SmileDoge",
+      "format": "png",
+      "url": "emotes/SmileDoge.png",
+      "sha1": "507d2a4055d605c4eb71a19e1b43e7a28da01714"
+    },
+    {
       "name": "soCute",
       "format": "gif",
       "url": "emotes/soCute.gif",
