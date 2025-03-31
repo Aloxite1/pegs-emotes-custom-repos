@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-27T20:00:00.000000",
+  "lastUpdated": "2025-03-31T15:45:00.000000",
   "emotes": [
     {
       "name": ":0",
@@ -18,6 +18,12 @@
       "format": "png",
       "url": "emotes/Cyring.png",
       "sha1": "3b6d5f0de60583fe82f0898985eb52d162d5a9d1"
+    },
+    {
+      "name": "Doge",
+      "format": "png",
+      "url": "emotes/Doge.png",
+      "sha1": "b7d4b33143921c457203ac7afa913ca2b626b67f"
     },
     {
       "name": "gigglePup",
