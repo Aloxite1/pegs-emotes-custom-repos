@@ -1,1 +1,197 @@
-
+{
+  "lastUpdated": "2025-03-31T15:45:00.000000",
+  "emotes": [
+    {
+      "name": ":0",
+      "format": "png",
+      "url": "emotes/:0.png",
+      "sha1": "8e3c5cbe96c33a2bc7424a044ba95cf9a52da2c3"
+    },
+    {
+      "name": "CAUGHT",
+      "format": "png",
+      "url": "emotes/CAUGHT.png",
+      "sha1": "e84a06e103324c39b63db83df643fb9e0817cde3"
+    },
+    {
+      "name": "Cyring",
+      "format": "png",
+      "url": "emotes/Cyring.png",
+      "sha1": "3b6d5f0de60583fe82f0898985eb52d162d5a9d1"
+    },
+    {
+      "name": "Doge",
+      "format": "png",
+      "url": "emotes/Doge.png",
+      "sha1": "b7d4b33143921c457203ac7afa913ca2b626b67f"
+    },
+    {
+      "name": "gigglePup",
+      "format": "png",
+      "url": "emotes/gigglePup.png",
+      "sha1": "625c4a4b392db6c262351d55e5d303a0568c058e"
+    },
+    {
+      "name": "glorp",
+      "format": "png",
+      "url": "emotes/glorp.png",
+      "sha1": "47ebc0bfd40e19fe06ced494178b48c18daad223"
+    },
+    {
+      "name": "hai",
+      "format": "png",
+      "url": "emotes/hai.png",
+      "sha1": "3195f003b5f93fafbda53aca48b51397e7d47c3c"
+    },
+    {
+      "name": "HECOOKED",
+      "format": "gif",
+      "url": "emotes/HECOOKED.gif",
+      "sha1": "afba59d7ac1d60bb9a34df0d55bbf00066150705"
+    },
+    {
+      "name": "hehe",
+      "format": "png",
+      "url": "emotes/hehe.png",
+      "sha1": "ed4a4cb72fec5f24ab182a83af309640a64a6d80"
+    },
+    {
+      "name": "HolyMoly",
+      "format": "gif",
+      "url": "emotes/HolyMoly.gif",
+      "sha1": "004c0a246e2649a87be936ae8d64828a3a6c2a8f"
+    },
+    {
+      "name": "ICANT",
+      "format": "png",
+      "url": "emotes/ICANT.png",
+      "sha1": "5fadac60239cb3b25c37f62c1ad5818b60cbce12"
+    },
+    {
+      "name": "leju",
+      "format": "gif",
+      "url": "emotes/leju.gif",
+      "sha1": "4acbc4e131f31e9e6e11cd421e9cbb30b13e1aa8"
+    },
+    {
+      "name": "mhm",
+      "format": "gif",
+      "url": "emotes/mhm.gif",
+      "sha1": "cb28f054a19de41325e37435480267381eaaaf0f"
+    },
+    {
+      "name": "NoNo",
+      "format": "gif",
+      "url": "emotes/NoNo.gif",
+      "sha1": "e73e39afc8b79b89b7d453d8ba8349a86a27d388"
+    },
+    {
+      "name": "ohno",
+      "format": "gif",
+      "url": "emotes/ohno.gif",
+      "sha1": "08cc97b68e1e54cb130bdccf81836126ee6c4a40"
+    },
+    {
+      "name": "om",
+      "format": "gif",
+      "url": "emotes/om.gif",
+      "sha1": "aa2c1d57bc0ea09f8824b460d69943a68f76bca4"
+    },
+    {
+      "name": "otag",
+      "format": "png",
+      "url": "emotes/otag.png",
+      "sha1": "99edd704d3b82b3ddbb36e959fe24c70e8421445"
+    },
+    {
+      "name": ":pensive:",
+      "format": "png",
+      "url": "emotes/pensive.png",
+      "sha1": "db220221ea94fce775cbb24e5e2e0d59ec65484d"
+    },
+    {
+      "name": "peepoCreate",
+      "format": "gif",
+      "url": "emotes/peepoCreate.gif",
+      "sha1": "d55f6fc7634b230b4d70a872224a2801de90b2b0"
+    },
+    {
+      "name":"peepoGiggles",
+      "format":"gif",
+      "url":"https://sbvlvwxtbaqajaiahslb.supabase.co/storage/v1/object/public/emotes/f1ff136a29d8ef1be7051e0b597456816149cbbf.gif",
+      "sha1":"f1ff136a29d8ef1be7051e0b597456816149cbbf"
+    },
+    {
+      "name": "peepoYo",
+      "format": "png",
+      "url": "emotes/peepoYo.png",
+      "sha1": "88f1976a9bfa530d461c464218313d1c35636cac"
+    },
+    {
+      "name": "Pleasant",
+      "format": "png",
+      "url": "emotes/Pleasant.png",
+      "sha1": "47924e0b24174bd631abd33181a69d4ca7a3d003"
+    },
+    {
+      "name": "Shrug",
+      "format": "png",
+      "url": "emotes/Shrug.png",
+      "sha1": "6643d94e8ed37019dd513b1cf5b9d9339117bc34"
+    },
+    {
+      "name": "slayyy",
+      "format": "png",
+      "url": "emotes/slayyy.png",
+      "sha1": "b667b8fc09fbdfb0237ac60694459b57e3b65292"
+    },
+    {
+      "name": "SmileDoge",
+      "format": "png",
+      "url": "emotes/SmileDoge.png",
+      "sha1": "507d2a4055d605c4eb71a19e1b43e7a28da01714"
+    },
+    {
+      "name": "soCute",
+      "format": "gif",
+      "url": "emotes/soCute.gif",
+      "sha1": "68a9c76067ece4cd5d5c75a8068224cb4371bd7b"
+    },
+    {
+      "name": "thumbsUp",
+      "format": "png",
+      "url": "emotes/thumbsUp.png",
+      "sha1": "d17b907829d6ef252b4c51c59b86d73866ccb23b"
+    },
+    {
+      "name": "Unpleasant",
+      "format": "png",
+      "url": "emotes/Unpleasant.png",
+      "sha1": "4edc622c65e248efbc944b18b2153bfa5224e9d4"
+    },
+    {
+      "name": "WAAAH",
+      "format": "png",
+      "url": "emotes/WAAAH.png",
+      "sha1": "7f5c4b41e1070e121028fb45e8b661bfd30c51db"
+    },
+    {
+      "name": "YEO",
+      "format": "png",
+      "url": "emotes/YEO.png",
+      "sha1": "ae1d60049df8e11c91c85c8a3757f243f46b3cf1"
+    },
+    {
+      "name": "YESSIR",
+      "format": "gif",
+      "url": "emotes/YESSIR.gif",
+      "sha1": "dd012089eeeeef2e8ff0320bae21b99ea90c91d3"
+    },
+    {
+      "name": "YUMP",
+      "format": "gif",
+      "url": "emotes/YUMP.gif",
+      "sha1": "40b76ea1e18042fbca293cf61ca9a241b59ad588"
+    }
+  ]
+}
