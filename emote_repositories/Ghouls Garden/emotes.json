@@ -8,6 +8,12 @@
       "sha1": "8e3c5cbe96c33a2bc7424a044ba95cf9a52da2c3"
     },
     {
+      "name": "4Evil",
+      "format": "gif",
+      "url": "emotes/4Evil.gif",
+      "sha1": "087095b34267fb31bf1f1833925e15f33ec77a48"
+    },
+    {
       "name": "CAUGHT",
       "format": "png",
       "url": "emotes/CAUGHT.png",
@@ -48,6 +54,12 @@
       "format": "png",
       "url": "emotes/hai.png",
       "sha1": "3195f003b5f93fafbda53aca48b51397e7d47c3c"
+    },
+    {
+      "name": "happie",
+      "format": "gif",
+      "url": "emotes/WOOO.gif",
+      "sha1": "e3c0b18cf964e717a32be5e95cf0f034f3fd5a60"
     },
     {
       "name": "HECOOKED",
