@@ -89,7 +89,7 @@
       "name": "leju",
       "format": "gif",
       "url": "emotes/leju.gif",
-      "sha1": "4acbc4e131f31e9e6e11cd421e9cbb30b13e1aa8"
+      "sha1": "e3701c96d10573a05fbbc7f01c89a9a315ba7536"
     },
     {
       "name": "mhm",
@@ -172,7 +172,7 @@
     {
       "name":"penguinDance",
       "format":"gif",
-      "url":"https://penguinDance.gif",
+      "url":"emotes/penguinDance.gif",
       "sha1":"ba4a51043ba4e62693065bba03cf932af782a562"
     },
     {
