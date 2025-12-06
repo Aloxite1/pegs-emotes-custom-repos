@@ -20,6 +20,12 @@
       "sha1": "e84a06e103324c39b63db83df643fb9e0817cde3"
     },
     {
+      "name": "CLASSIC",
+      "format": "gif",
+      "url": "emotes/CLASSIC.gif",
+      "sha1": "daefac7e5e71af3f5ff753f861b565d7e2d1cf5e"
+    },
+    {
       "name": "Crunch",
       "format": "gif",
       "url": "emotes/Crunch.gif",
