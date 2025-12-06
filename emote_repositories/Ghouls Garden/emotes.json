@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-03-31T15:45:00.000000",
+  "lastUpdated": "2025-12-06T12:00:00.000000",
   "emotes": [
     {
       "name": ":0",
@@ -12,6 +12,12 @@
       "format": "png",
       "url": "emotes/CAUGHT.png",
       "sha1": "e84a06e103324c39b63db83df643fb9e0817cde3"
+    },
+    {
+      "name": "Crunch",
+      "format": "gif",
+      "url": "emotes/Crunch.gif",
+      "sha1": "37e98782f2d866986acffa5284bef60581fd836a"
     },
     {
       "name": "Cyring",
@@ -86,16 +92,34 @@
       "sha1": "e73e39afc8b79b89b7d453d8ba8349a86a27d388"
     },
     {
+      "name": "Offline",
+      "format": "gif",
+      "url": "emotes/Offline.gif",
+      "sha1": "eb786bcfd2b301edb1a752680aa394dadab6dd40"
+    },
+    {
       "name": "ohno",
       "format": "gif",
       "url": "emotes/ohno.gif",
       "sha1": "08cc97b68e1e54cb130bdccf81836126ee6c4a40"
     },
     {
+      "name": "Okay.",
+      "format": "png",
+      "url": "emotes/Okay.png",
+      "sha1": "40c59ed6545f8a2d1cb9e7ad48e19e9017c96b21"
+    },
+    {
       "name": "om",
       "format": "gif",
       "url": "emotes/om.gif",
       "sha1": "aa2c1d57bc0ea09f8824b460d69943a68f76bca4"
+    },
+    {
+      "name": "OriginalStarwalker",
+      "format": "png",
+      "url": "emotes/OriginalStarwalker.png",
+      "sha1": "651f8135e2c102a4169d5d324f290686dfdbc9d6"
     },
     {
       "name": "otag",
@@ -108,6 +132,12 @@
       "format": "png",
       "url": "emotes/pensive.png",
       "sha1": "db220221ea94fce775cbb24e5e2e0d59ec65484d"
+    },
+    {
+      "name": "PARTY",
+      "format": "gif",
+      "url": "emotes/PARTY.gif",
+      "sha1": "3bbe635a9acbbf22e4c2cd03f8ae79e431113fef"
     },
     {
       "name": "peepoCreate",
@@ -128,16 +158,34 @@
       "sha1": "88f1976a9bfa530d461c464218313d1c35636cac"
     },
     {
+      "name":"penguinDance",
+      "format":"gif",
+      "url":"https://penguinDance.gif",
+      "sha1":"ba4a51043ba4e62693065bba03cf932af782a562"
+    },
+    {
       "name": "Pleasant",
       "format": "png",
       "url": "emotes/Pleasant.png",
       "sha1": "47924e0b24174bd631abd33181a69d4ca7a3d003"
     },
     {
+      "name": "ralseiSplat",
+      "format": "png",
+      "url": "emotes/ralseiSplat.png",
+      "sha1": "1645bbb4eebe72a97fb24e9e6ac1a8c4b61107f4"
+    },
+    {
       "name": "Shrug",
       "format": "png",
       "url": "emotes/Shrug.png",
       "sha1": "6643d94e8ed37019dd513b1cf5b9d9339117bc34"
+    },
+    {
+      "name": "ShyCute",
+      "format": "gif",
+      "url": "emotes/ShyCute.gif",
+      "sha1": "3f244ed51d1695fa81b8c8eac1b7c80ab6b4f491"
     },
     {
       "name": "slayyy",
@@ -158,6 +206,18 @@
       "sha1": "68a9c76067ece4cd5d5c75a8068224cb4371bd7b"
     },
     {
+      "name": "TennaJam",
+      "format": "gif",
+      "url": "emotes/TennaJam.gif",
+      "sha1": "68a343166e96cfe7b40942d9177c915ed7e04ab4"
+    },
+    {
+      "name": "TennaPls",
+      "format": "gif",
+      "url": "emotes/TennaPls.gif",
+      "sha1": "113c311ed3310fa8834a71f8fdac80cee1b6566d"
+    },
+    {
       "name": "thumbsUp",
       "format": "png",
       "url": "emotes/thumbsUp.png",
@@ -174,6 +234,18 @@
       "format": "png",
       "url": "emotes/WAAAH.png",
       "sha1": "7f5c4b41e1070e121028fb45e8b661bfd30c51db"
+    },
+    {
+      "name": "WAJAJA",
+      "format": "png",
+      "url": "emotes/WAJAJA.png",
+      "sha1": "31a312c03c40cfec0b1c276c70b1477406546331"
+    },
+    {
+      "name": "WOOO",
+      "format": "gif",
+      "url": "emotes/WOOO.gif",
+      "sha1": "e3c0b18cf964e717a32be5e95cf0f034f3fd5a60"
     },
     {
       "name": "YEO",
