@@ -282,6 +282,804 @@
       "format": "gif",
       "url": "emotes/YUMP.gif",
       "sha1": "40b76ea1e18042fbca293cf61ca9a241b59ad588"
+    },
+    {
+      "name": "pwetShush",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetShush.png",
+      "sha1": "90b33d4bbcf033a58771e5703d9c34c9911666ed"
+    },
+    {
+      "name": "pwet_hehe",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet_hehe.png",
+      "sha1": "232d5edd26e08615e58d80195f3ed57f0da63d9d"
+    },
+    {
+      "name": "pwetDizzy",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetDizzy.png",
+      "sha1": "47d4d7a1cdeda86434ca9a64dd96b8c93ca6ba21"
+    },
+    {
+      "name": "pwetShrug2",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetShrug2.png",
+      "sha1": "738d4d02909ac2b8a611a97540e0364165f12a77"
+    },
+    {
+      "name": "pwetSo_no_yaoi",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSo_no_yaoi.png",
+      "sha1": "de085cddb9a87978f0beaaaaa04da30206af6964"
+    },
+    {
+      "name": "pwetSmile",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSmile.png",
+      "sha1": "554aba03cad370a51db94a6c565767f5b7b3f3b8"
+    },
+    {
+      "name": "pwetTheory",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetTheory.png",
+      "sha1": "01db4cb411b115d851c731933c926f6f215bc1b5"
+    },
+    {
+      "name": "pwetBinoculars",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBinoculars.png",
+      "sha1": "f342a9a0e8cc8146f0c2f299af625b134ced6563"
+    },
+    {
+      "name": "pwetGeography",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGeography.png",
+      "sha1": "c084ee8530ba1a5501d895311c9ab68b5080cb8d"
+    },
+    {
+      "name": "pwet_ded",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet_ded.png",
+      "sha1": "8783baa60af152e7eabc2ad22012f2e21a4b5f14"
+    },
+    {
+      "name": "pwetEmbarrassed",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetEmbarrassed.png",
+      "sha1": "5d15f94cb768b208ce6bf47da58243412c0af5c4"
+    },
+    {
+      "name": "pwetBONK",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBONK.png",
+      "sha1": "c0944f8809c12d38c6c008de38acd92c857bac0f"
+    },
+    {
+      "name": "pwetSitti",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSitti.png",
+      "sha1": "dfdda6b9aac1fed70c4d6b2c492e7701337e6292"
+    },
+    {
+      "name": "pwetGay",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGay.png",
+      "sha1": "5e7e640d676625d57053278486a042e4537f903c"
+    },
+    {
+      "name": "pwetSliced",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSliced.png",
+      "sha1": "20586b4e1fca31b2375888d0dff0aa5f17da686f"
+    },
+    {
+      "name": "pwetCri",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCri.png",
+      "sha1": "70b6ed9ed20c7e35983869099d8a661f5eddb6cb"
+    },
+    {
+      "name": "pwetSus",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSus.png",
+      "sha1": "7754eb9087afa31dd79f2e57ea36cf96f7bda272"
+    },
+    {
+      "name": "pwetScared",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetScared.png",
+      "sha1": "1fbb6b32e1a0a5e9da843109505613a0da94f946"
+    },
+    {
+      "name": "pwetNOTED",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetNOTED.png",
+      "sha1": "b8b0c507c346d9acb650131bbc9e03972dbf4007"
+    },
+    {
+      "name": "pwetDespair",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetDespair.png",
+      "sha1": "eeb45552bc58941495ca5b5da1c135f8ba8fb8a7"
+    },
+    {
+      "name": "pwetShucks",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetShucks.png",
+      "sha1": "90622a64958c94b54217307c006ba26fbd6c3c54"
+    },
+    {
+      "name": "pwetOld",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetOld.png",
+      "sha1": "6103c41da17c85c67a57c65d167cbf7a9ac4916e"
+    },
+    {
+      "name": "pwetDishes",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetDishes.png",
+      "sha1": "2e6f376744903a31a6fdb0803c5dd439246f19b4"
+    },
+    {
+      "name": "pwetHmph",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetHmph.png",
+      "sha1": "ac50fa071f163290358256d598a5c5da7fae7241"
+    },
+    {
+      "name": "pwetFlush",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetFlush.png",
+      "sha1": "f24f32c5421389ce196ab57bbf986e0f0c8da4a2"
+    },
+    {
+      "name": "pwetWOAH",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWOAH.png",
+      "sha1": "fc68a7d16410308d685ecdf41414ab33219f3f36"
+    },
+    {
+      "name": "pwetWow",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWow.png",
+      "sha1": "b6544b4615483104b7c8079058393564261ccdac"
+    },
+    {
+      "name": "pwetLurk",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLurk.png",
+      "sha1": "0ce36f19e43eb3bb8bfe304aef3696375a07d9e1"
+    },
+    {
+      "name": "pwetHmm",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetHmm.png",
+      "sha1": "3cf3e8ac8d4b071f524dfafb5e94298d1da5ac8a"
+    },
+    {
+      "name": "pwetColonP",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetColonP.png",
+      "sha1": "d3c2b66fc5566239bf770e4c49e209ce75292f72"
+    },
+    {
+      "name": "pwetBattery",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBattery.png",
+      "sha1": "2e4b61836bf3ac73c08de1616faecba8430e3ef4"
+    },
+    {
+      "name": "pwetProud",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetProud.png",
+      "sha1": "dd4887022c793a63855dcdddbad535198eaa8942"
+    },
+    {
+      "name": "pwetSadgeing",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSadgeing.png",
+      "sha1": "f49f24f844adb55d0033ae3d8ab5c404e62371cf"
+    },
+    {
+      "name": "pwetSlay",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSlay.png",
+      "sha1": "298cd6bcd8d17821f8b0db570ab46699795ad5fe"
+    },
+    {
+      "name": "pwetWink",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWink.png",
+      "sha1": "a9052accd90c674e33b66615bf2d7d870c2f3da4"
+    },
+    {
+      "name": "pwetCuter",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCuter.png",
+      "sha1": "5223af15c1c4096c4fcb654721e46ffcaa583e80"
+    },
+    {
+      "name": "pwetHmm2",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetHmm2.png",
+      "sha1": "2b7a6e1968ecbb501b4c9635d4d92a90cde8f664"
+    },
+    {
+      "name": "pwetFIRE",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetFIRE.png",
+      "sha1": "8a3ecfe3993469f1d2f63c7eb3b0494a2f482fa1"
+    },
+    {
+      "name": "pwetQuieres",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetQuieres.png",
+      "sha1": "6e22357cfd3dd9e91c51a7d0ee496396a4b5aa13"
+    },
+    {
+      "name": "pwetPride",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPride.png",
+      "sha1": "ff118ac9471feccf18b5515387cf011ffd05ac21"
+    },
+    {
+      "name": "pwetCross",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCross.png",
+      "sha1": "b8c326fe4e95f7e8eaf92a928d44e7b3f0f7a95a"
+    },
+    {
+      "name": "pwetFloorTime",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetFloorTime.png",
+      "sha1": "405cb40c9fe254775929df837e116a55ca0bb991"
+    },
+    {
+      "name": "pwetAngy",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetAngy.png",
+      "sha1": "943ac2038857f1db45beb27111ba56d13d3b2937"
+    },
+    {
+      "name": "pwetFREE",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetFREE.png",
+      "sha1": "c7d16ff8c31b391f539c3033873ff103942d8766"
+    },
+    {
+      "name": "pwetShrug",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetShrug.png",
+      "sha1": "5095aeb2c9297061698f2319a0cb5c2e4ee496f7"
+    },
+    {
+      "name": "pwetIsFine",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetIsFine.png",
+      "sha1": "5506852f4ef5c82aba24528708960dc7694b8028"
+    },
+    {
+      "name": "pwetBLEH",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBLEH.png",
+      "sha1": "7115cb8822eb88c69c849c91a61b3e2fda16274e"
+    },
+    {
+      "name": "pwetYay",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetYay.png",
+      "sha1": "1297a0397a9e8e8493ec4b4a3434d645262ddf51"
+    },
+    {
+      "name": "pwetImposter",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetImposter.png",
+      "sha1": "48aba22f0afbaf3670ccf3ccbae5a8d01fc57b7b"
+    },
+    {
+      "name": "pwetLookDown",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLookDown.png",
+      "sha1": "e01d76e5214dd880b64f350b8150b150dc06b6c0"
+    },
+    {
+      "name": "pwetBedge",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBedge.png",
+      "sha1": "09df7b2bda44dbf4b4e6b7f0057e87490e106f29"
+    },
+    {
+      "name": "pwetdertale",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetdertale.png",
+      "sha1": "b1225cac01dc85a53dee6e6d41f7d088ade3cb0b"
+    },
+    {
+      "name": "pwetPISSED",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPISSED.png",
+      "sha1": "174245c46ef4a029a57e175cf2b75c0174d4fc08"
+    },
+    {
+      "name": "pwetGun",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGun.png",
+      "sha1": "81c7b7dc2e5edfc28f3c0b3329d34555621dfd5c"
+    },
+    {
+      "name": "pwetCutenessOverload",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCutenessOverload.png",
+      "sha1": "f631c6fd533630c753e3799cfdb704c87fbf5ad7"
+    },
+    {
+      "name": "pwetBruh",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBruh.png",
+      "sha1": "e48ffedea78f2826111a1d4c158e21bcf314e97e"
+    },
+    {
+      "name": "pwetMongy",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetMongy.png",
+      "sha1": "87d693a5062da68485f134b2fed4283692f0bbb1"
+    },
+    {
+      "name": "pwet4Evil",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet4Evil.png",
+      "sha1": "496993c884d83f9c8a90b19f5b41cd0782dcfc40"
+    },
+    {
+      "name": "pwetAutismStare",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetAutismStare.png",
+      "sha1": "31ade0a9ea2594ccde145613f4b489fffc616701"
+    },
+    {
+      "name": "pwetLife",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLife.png",
+      "sha1": "828973b9469179aa50190d83cbb8a4042b443c7d"
+    },
+    {
+      "name": "pwetPathetic",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPathetic.png",
+      "sha1": "b3d1ec2d0054f480812c216114c8645bb139f083"
+    },
+    {
+      "name": "pwetStunned",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetStunned.png",
+      "sha1": "be0477fc808420d5720c26cdf309def72489b480"
+    },
+    {
+      "name": "pwetShook",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetShook.png",
+      "sha1": "6f80330d3abd0fd83cdc4103e890aae1a93ace3e"
+    },
+    {
+      "name": "pwetCinema",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCinema.png",
+      "sha1": "27b76a8d940ccfddf591484e668e2a964b87a5e3"
+    },
+    {
+      "name": "pwetGliscor",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGliscor.png",
+      "sha1": "48053b828bd625420e0d0893b2459423287b200d"
+    },
+    {
+      "name": "pwetMyDemons",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetMyDemons.png",
+      "sha1": "bdb388c1e84f5b99c099e3903dd86fc23655ae6a"
+    },
+    {
+      "name": "pwetHUH",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetHUH.png",
+      "sha1": "5f1a9a7e892116074ef200a560b466d7a4a6b988"
+    },
+    {
+      "name": "pwetClown",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetClown.png",
+      "sha1": "c73c4d0e2ce8be6dff83d8872eb6af48b7eadc67"
+    },
+    {
+      "name": "pwetActually",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetActually.png",
+      "sha1": "9615edb7472aeff2c000c53cff9b69ba3f4cb4ec"
+    },
+    {
+      "name": "pwetPapyrus",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPapyrus.png",
+      "sha1": "5790ac9ee5f6f4f48ee9ab29cb779c467d026ced"
+    },
+    {
+      "name": "pwetRouxls",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetRouxls.png",
+      "sha1": "9c3a26a630054d8aef524f444e67489237640a55"
+    },
+    {
+      "name": "pwetPiano",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPiano.png",
+      "sha1": "63b22c4a813c0bf46938ecd88393729a68ecf41f"
+    },
+    {
+      "name": "pwetErm",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetErm.png",
+      "sha1": "fd5d5c20825e9eebbeb4525b3e74cc33f41a46a5"
+    },
+    {
+      "name": "pwetRage",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetRage.png",
+      "sha1": "aa2dabf1bfcac87a79a8b89377166014c1ae66ba"
+    },
+    {
+      "name": "pwetYo",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetYo.png",
+      "sha1": "5b93cd79e2ecfbdf82f1676c803e48b4e14ead06"
+    },
+    {
+      "name": "pwetPKMN",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPKMN.png",
+      "sha1": "84b5822ab3a0a219beb60ffc1d01a8e95980cf2f"
+    },
+    {
+      "name": "pwetGaming",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGaming.png",
+      "sha1": "3b7bc86457d85f1527b18c0231c21f19c5f36528"
+    },
+    {
+      "name": "pwetGASP",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGASP.png",
+      "sha1": "04b3d45c0ff8ff4ab87e6d1d1a840f6c40ddb1c2"
+    },
+    {
+      "name": "pwetLove",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLove.png",
+      "sha1": "ccde3bf08476b0664e0d0756ee1ee1be40f1460c"
+    },
+    {
+      "name": "pwetLookUp",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLookUp.png",
+      "sha1": "afa31fbb63afcbcaec88f3a2dffe2e3741fd7f3a"
+    },
+    {
+      "name": "pwet2AM",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet2AM.png",
+      "sha1": "83499a17bf2917bdee89f15834a98c68c09b86f2"
+    },
+    {
+      "name": "pwetSuuuure",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSuuuure.png",
+      "sha1": "916886f35286f0ef2a43e0c4e7c1f59cae267762"
+    },
+    {
+      "name": "pwetMONKA",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetMONKA.png",
+      "sha1": "626952d45ff552487473eb45a2b28285c7cdc9d6"
+    },
+    {
+      "name": "pwetLaughTrack",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLaughTrack.png",
+      "sha1": "9906160b86051ea67160545485a386863a281ff0"
+    },
+    {
+      "name": "pwetWar",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWar.png",
+      "sha1": "8e00248e644d0a7188b4f6a57e29087f837bdce3"
+    },
+    {
+      "name": "pwetLil",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLil.png",
+      "sha1": "a249fd5181d76b2fd62dd2803aa2467b4b6ac532"
+    },
+    {
+      "name": "pwetWoJack",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWoJack.png",
+      "sha1": "b43d8edecd64d52e0b01d22ae2ee5b98bcd18877"
+    },
+    {
+      "name": "pwetBlind",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBlind.png",
+      "sha1": "67271d508612ff7840c1e66f815e3e099ae286ed"
+    },
+    {
+      "name": "pwetDozing",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetDozing.png",
+      "sha1": "6e019cf9e472f6f3b65ca0d5926b416f3cb50a43"
+    },
+    {
+      "name": "pwetBow",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBow.png",
+      "sha1": "b720fcb5960e70598799d3312b38c773893bcf8c"
+    },
+    {
+      "name": "pwetCook",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCook.png",
+      "sha1": "ee40d4e69d2c152db6b8906048a075c351ff3ab8"
+    },
+    {
+      "name": "pwetSad",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSad.png",
+      "sha1": "355e523efe3f248c41661abe0d4bb97162dfa248"
+    },
+    {
+      "name": "pwetRed",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetRed.png",
+      "sha1": "7a5168ab22fbfdd3664bf5c82fb2a61cdccaa1f6"
+    },
+    {
+      "name": "pwetGamba",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGamba.png",
+      "sha1": "dbf4887b0ba0fe2426c059850cb0fbcf28088dbf"
+    },
+    {
+      "name": "pwetShy",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetShy.png",
+      "sha1": "243a55f3ef818c2270caec5128c956fc5640391c"
+    },
+    {
+      "name": "pwetWow2",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWow2.png",
+      "sha1": "3cdb59a471271e21da64a17babf470c475e0470d"
+    },
+    {
+      "name": "pwetWRECKED",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWRECKED.png",
+      "sha1": "9dc7b7705852c79f897a15624b4cfa91d14851a8"
+    },
+    {
+      "name": "pwet_eep",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet_eep.png",
+      "sha1": "d79bf4f1f826040bbe24708624a5b7d225034724"
+    },
+    {
+      "name": "pwetSob",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSob.png",
+      "sha1": "e036f63d232023659965d4e779dc24d271aa89ee"
+    },
+    {
+      "name": "pwetCAUGHT",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCAUGHT.png",
+      "sha1": "b237c22ad79999da0b71922b2225303c54d3cf4f"
+    },
+    {
+      "name": "pwetPauseChamp",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPauseChamp.png",
+      "sha1": "00d0c174675080bb41d9577acfafc2c031dce529"
+    },
+    {
+      "name": "pwetPrayge",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPrayge.png",
+      "sha1": "65ad70372d7a86e7a2794c464155fda2a4f1563e"
+    },
+    {
+      "name": "pwet_cute",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet_cute.png",
+      "sha1": "c69b2584b86b08a0ce47f00c8ba2d19fda4d9e32"
+    },
+    {
+      "name": "pwetLETSGO",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLETSGO.png",
+      "sha1": "bfceef2ec70ebf2945239f16c5199889e6aa530d"
+    },
+    {
+      "name": "pwetEw",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetEw.png",
+      "sha1": "2f79cd9acfe7bef1da1bde283eb315d32f5bc7d8"
+    },
+    {
+      "name": "pwetBITESYOU",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBITESYOU.png",
+      "sha1": "1b9f216e2147606a34565955569ac39d1207d4ed"
+    },
+    {
+      "name": "pwetLiveReaction",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetLiveReaction.png",
+      "sha1": "38cb146b5ccef5e823fdf787622d2784bbb7b916"
+    },
+    {
+      "name": "pwetClueless",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetClueless.png",
+      "sha1": "ac03d54c863d3855d998ed2da856335cdd18743a"
+    },
+    {
+      "name": "pwetFlustered",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetFlustered.png",
+      "sha1": "0f49390a078af38a81435646b189a6ad90f4d695"
+    },
+    {
+      "name": "pwetSilly3",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSilly3.png",
+      "sha1": "d360c1ec55b7d771ff1e8ff5384c4fa62d96adeb"
+    },
+    {
+      "name": "pwet420",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet420.png",
+      "sha1": "4e97d928faf5d4007c556f46581f521514c1f339"
+    },
+    {
+      "name": "pwet_o7",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet_o7.png",
+      "sha1": "a86b0a7fd36d84b7c8964fbefe18bfc5c8c6a12b"
+    },
+    {
+      "name": "pwet_thumbs_up",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwet_thumbs_up.png",
+      "sha1": "6f33312f33207254f24b2dcd0e1b78e278e30ce3"
+    },
+    {
+      "name": "pwetSmirk",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSmirk.png",
+      "sha1": "4700679b7856f5d7b6a6abf4b8e4cc3338aad055"
+    },
+    {
+      "name": "pwetWokege",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWokege.png",
+      "sha1": "cc0ea012e02d77e745501eb3be15d8e4587c3732"
+    },
+    {
+      "name": "pwetCOPIUM",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCOPIUM.png",
+      "sha1": "d2176c027ea178f4bd30136d471ac69f97ea65f1"
+    },
+    {
+      "name": "pwetDonoWall",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetDonoWall.png",
+      "sha1": "c58c1a9a16779ba87889f1bdabd57eb14004567c"
+    },
+    {
+      "name": "pwetWHATEVER",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWHATEVER.png",
+      "sha1": "2798b9691b5e09638b9f521c38a93783bf30fd8b"
+    },
+    {
+      "name": "pwetTired",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetTired.png",
+      "sha1": "57d5ed1630c7045ca95c909f40623e896bf915ad"
+    },
+    {
+      "name": "pwetThoughts",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetThoughts.png",
+      "sha1": "3839b9bfb430a9fe682cd4ee6cf6506d2f0cc21b"
+    },
+    {
+      "name": "pwetNOOO",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetNOOO.png",
+      "sha1": "e23619f8e630f132bf82f04013cd871c1dfde132"
+    },
+    {
+      "name": "pwetAware",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetAware.png",
+      "sha1": "57be1d6bec1fe3f264a50e8be2b0abf04c0b0430"
+    },
+    {
+      "name": "pwetBummed",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBummed.png",
+      "sha1": "2efca26628205605c04767bc1c5537df23ee1452"
+    },
+    {
+      "name": "pwetGiggles",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetGiggles.png",
+      "sha1": "3f7f6fe91ffe57f64aac6cea752c902a2c772490"
+    },
+    {
+      "name": "pwetConcern",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetConcern.png",
+      "sha1": "8ef7efebbd9bfe8a21965866643ee7bd7d34cd80"
+    },
+    {
+      "name": "pwetPointing",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetPointing.png",
+      "sha1": "4eaab349c53e9e0197b6e8ae9588d7c34536f354"
+    },
+    {
+      "name": "pwetBRASIL",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetBRASIL.png",
+      "sha1": "0ee02364ad76202227197e7dc43329a5876bf64b"
+    },
+    {
+      "name": "pwetFUCKOFF",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetFUCKOFF.png",
+      "sha1": "43aafb51ac5d070f15f41d115ba50795f90ccb70"
+    },
+    {
+      "name": "pwetSing",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSing.png",
+      "sha1": "54826b3768d14f5b1dd7241a1eaaf12fefbc3187"
+    },
+    {
+      "name": "pwetSTAAAHPP",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetSTAAAHPP.png",
+      "sha1": "f7178251b4b44aad068e5556d43346733a36b382"
+    },
+    {
+      "name": "pwetURETHRA",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetURETHRA.png",
+      "sha1": "d6ab9308ee85b4181de4d9f66373511af2b44169"
+    },
+    {
+      "name": "pwetWheeze",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetWheeze.png",
+      "sha1": "551f3ce10850e775a605df4778423221b143affe"
+    },
+    {
+      "name": "pwetCrashOut",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetCrashOut.png",
+      "sha1": "25e3cdce65f8ae9742877114c4cc7c03442f986a"
     }
   ]
 }
