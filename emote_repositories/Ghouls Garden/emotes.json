@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-06T12:00:00.000000",
+  "lastUpdated": "2025-12-0912:00:00.000000",
   "emotes": [
     {
       "name": ":0",
@@ -1080,6 +1080,60 @@
       "format": "png",
       "url": "emotes/Pwet_Emotes/pwetCrashOut.png",
       "sha1": "25e3cdce65f8ae9742877114c4cc7c03442f986a"
+    },
+    {
+      "name": "pwetWalk",
+      "format": "gif",
+      "url": "emotes/Pwet_Emotes/pwetWalk.gif",
+      "sha1": "6b0e3b7ed17f32f0756d6eea4ffe05a81e9efb68"
+    },
+    {
+      "name": "pwetBAII",
+      "format": "gif",
+      "url": "emotes/Pwet_Emotes/pwetBAII.gif",
+      "sha1": "6a02f56079c99831e03f4b8075fae59d2c02d60a"
+    },
+    {
+      "name": "PWETTYEPIC",
+      "format": "gif",
+      "url": "emotes/Pwet_Emotes/PWETTYEPIC.gif",
+      "sha1": "dd41635cf966e6a3d764b76acf80248befd9974e"
+    },
+    {
+      "name": "pwetSPIN",
+      "format": "gif",
+      "url": "emotes/Pwet_Emotes/pwetSPIN.gif",
+      "sha1": "1bb75de49c1685960d0adf6f94cbb3791488970e"
+    },
+    {
+      "name": "pwetPeaceOut",
+      "format": "gif",
+      "url": "emotes/Pwet_Emotes/pwetPeaceOut.gif",
+      "sha1": "ca2d5bdfae8750d97b112457e1ee45ee59e5bb24"
+    },
+    {
+      "name": "pwetJAM",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetJAM.gif",
+      "sha1": "c4cadf9e60adea3440da4e681f9edfb1053108ce"
+    },
+    {
+      "name": "pwetYIPPEE",
+      "format": "png",
+      "url": "emotes/Pwet_Emotes/pwetYIPPEE.gif",
+      "sha1": "8d63c686663feee1a4b14b9db98eb96b18a191f0"
+    },
+    {
+      "name": "pwetHAII",
+      "format": "gif",
+      "url": "emotes/Pwet_Emotes/pwetHAII.gif",
+      "sha1": "ef2c9a6904675945f7f788b7303abe832ebb5429"
+    },
+    {
+      "name": "BoykisserStruggles",
+      "format": "gif",
+      "url": "emotes/Pwet_Emotes/BoykisserStruggles.gif",
+      "sha1": "3b182617d4da9ece2cb08a07891f32f7fab74161"
     }
   ]
 }
